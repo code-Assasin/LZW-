@@ -1,3 +1,3 @@
 # LZW
-code for lempel Ziv welch compression algorithm
-
+Code for Lempel Ziv Welch compression algorithm 
+(https://en.wikipedia.org/wiki/Lempel–Ziv–Welch)
